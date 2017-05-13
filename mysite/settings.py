@@ -25,7 +25,7 @@ SECRET_KEY = 'cj781u+saw*xq^^t2esi%=n9pz6qqe92&8-yzda3-6$b0g9(3d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['monistra.pythonanywhere.com']
 
 
 # Application definition
